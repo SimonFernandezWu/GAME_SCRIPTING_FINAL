@@ -104,21 +104,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5AB27A34AE8A7AC1B15A2321255869AEAF7AEE10",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "D9EF9F34031472DA35B9FABE051BA223A9F228D5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
-			]
-		},
-		{
-			"ShaderMapHash": "9055BF34B5B23E15C01F0468B50473D0941DECE9",
-			"Assets": [
-				"/Game/ShootEmUp/Materials/M_BaseMaterial"
 			]
 		},
 		{
@@ -137,6 +125,12 @@
 			"ShaderMapHash": "9F2C053A64D5395B2AD3D7CA07CC250E6C1E403F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "9E79CD3DA3DB8AFB7F599FA5CE689844A3A190C4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
 			]
 		},
 		{
@@ -242,6 +236,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "214717663469B09E63C5362A7209F0E2DD42F33B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
 			"ShaderMapHash": "FC9F3C6664C99D2E15493E0751B650A86628EB80",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
@@ -264,6 +264,12 @@
 			"Assets": [
 				"/Game/ShootEmUp/Basic_VFX/Materials/M_light",
 				"/Game/ShootEmUp/Basic_VFX/Materials/M_light_2"
+			]
+		},
+		{
+			"ShaderMapHash": "15174D74B798DA02B7157BE4D7589277D3185C39",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -318,6 +324,12 @@
 			"ShaderMapHash": "9D41AB82C05735C9E56E3F9BD934A21F2752EC9B",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "01B1E182E253B5315CF012823D0473BF40DDA6DF",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
 			]
 		},
 		{
@@ -417,6 +429,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9A32B4B00D6512D29AE1DB934318393847859BCB",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "C70D09B126F304BFAAC62D1EE8D763DF9265DA81",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
@@ -505,6 +523,12 @@
 			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "AABFD1CD5350D0CE1F8FEE678AF1C763B4E71869",
+			"Assets": [
+				"/Game/ShootEmUp/Materials/M_outline"
 			]
 		},
 		{

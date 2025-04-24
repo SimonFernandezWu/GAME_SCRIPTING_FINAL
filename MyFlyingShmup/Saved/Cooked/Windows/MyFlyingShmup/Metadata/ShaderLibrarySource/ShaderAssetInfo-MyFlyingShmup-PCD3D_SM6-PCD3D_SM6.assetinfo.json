@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "CEA52F0021B21BC979B687062C7DE5435741B8DF",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
 			"ShaderMapHash": "1493FF02CFD73EA9AB0712F5CF1F90C3C02A3E5E",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
@@ -153,6 +159,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DC28C24D990A7DF983B1ED9E7C4DEE9BF236D8CC",
+			"Assets": [
+				"/Game/ShootEmUp/Materials/M_outline"
+			]
+		},
+		{
 			"ShaderMapHash": "E4D10B4EE818567A648B16A1E8C90BD90E64E65E",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
@@ -225,6 +237,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8E2E9F6E736928CEAF9A0DAEE073C09873D9D00B",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "438EC7702432B7C65389A674FAA4D54526331B3A",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -234,8 +252,7 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
@@ -248,6 +265,12 @@
 			"ShaderMapHash": "6A95037F753177EA904DA5FC9DE81F3B2712D3AD",
 			"Assets": [
 				"/Game/ShootEmUp/Basic_VFX/Materials/M_ribbon"
+			]
+		},
+		{
+			"ShaderMapHash": "A12D7080707FC6F58C3E642B7E77F396BE945B6E",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
 			]
 		},
 		{
@@ -305,6 +328,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "148BB096D5D8550F5C8801B35DD883157F4C6C87",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
 			"ShaderMapHash": "A5C01097DA1A20A5CA8B5FEC150CAC2CAA06B850",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
@@ -320,12 +349,6 @@
 			"ShaderMapHash": "149BEE9A0F16AC3CE7CE830DBB6CE47C3A498919",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Sheen"
-			]
-		},
-		{
-			"ShaderMapHash": "4EB0B19B0D52B973FC063412D522ECA0536DCA2F",
-			"Assets": [
-				"/Game/ShootEmUp/Materials/M_BaseMaterial"
 			]
 		},
 		{
